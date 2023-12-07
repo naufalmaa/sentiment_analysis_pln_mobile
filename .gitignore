@@ -1,0 +1,9 @@
+venv_sa_plnm/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/*.csv
+output/*.csv
+.DS_Store
+*.log
+*.h5
